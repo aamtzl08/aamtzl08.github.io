@@ -42,7 +42,7 @@ Fluttering and dancing in the breeze.
 
 ## Tables
 
-|Company|Contact|Country|
+|Company|
 |:---|:--|---:|
 |Alfreds Futterkiste | Maria Anders | Germany
 |Island Trading | Helen Bennett | UK
